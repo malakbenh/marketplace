@@ -156,12 +156,12 @@ class HomeStore extends StatelessWidget {
                     },
                   ),
                 ),
-                Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 16),
+                const Padding(
+                  padding: EdgeInsets.symmetric(horizontal: 16),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      const Text(
+                      Text(
                         "Popular Products",
                         style: TextStyle(
                           fontSize: 18.0,
@@ -190,7 +190,7 @@ class HomeStore extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
-                  height: 200,
+                  height: 244,
                   child: StreamBuilder<QuerySnapshot>(
                     stream: FirebaseFirestore.instance
                         .collection('products')

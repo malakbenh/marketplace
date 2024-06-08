@@ -71,11 +71,12 @@ class MyApp extends StatelessWidget {
                     HomePageClient(userSession: userSession),
               },
               locale: settingsController.localeMode,
-              home: AuthenticationWrapper(
+              home: HomeStore()
+              /*AuthenticationWrapper(
                 showSplashScreen: showSplashScreen,
                 hideSplashScreen: hideSplashScreen,
                 settingsController: settingsController,
-              ),
+              ),*/
             );
           },
         );

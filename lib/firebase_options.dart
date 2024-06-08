@@ -63,9 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '865528263704',
     projectId: 'vitafit-369c1',
     storageBucket: 'vitafit-369c1.appspot.com',
-    androidClientId: '865528263704-eo97tt9vs1nurugsvl9dec26v4mo5hvi.apps.googleusercontent.com',
+    androidClientId: '865528263704-04bskorqgjq3qnekr3ekno1i1icc2vjn.apps.googleusercontent.com',
     iosClientId: '865528263704-l7qa5revnto0g1fe3hokjt7fcb0sie0j.apps.googleusercontent.com',
     iosBundleId: 'com.vitafit.app',
   );
-
 }

@@ -30,14 +30,14 @@ class ProductCard extends StatelessWidget {
         children: [
           isNetworkImage
               ? ClipRRect(
-                  borderRadius: BorderRadius.vertical(top: Radius.circular(10)),
+                  borderRadius: const BorderRadius.vertical(top: Radius.circular(10)),
                   child: Image.network(imagePath,
-                      fit: BoxFit.cover, height: 120, width: double.infinity),
+                      fit: BoxFit.contain, height: 120, width: double.infinity),
                 )
               : ClipRRect(
-                  borderRadius: BorderRadius.vertical(top: Radius.circular(10)),
-                  child: Image.asset(imagePath,
-                      fit: BoxFit.cover, height: 120, width: double.infinity),
+                  borderRadius: const BorderRadius.vertical(top: Radius.circular(10)),
+                  child: Image.network('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmWru8q17zpOzzzT1s475ZS_8fOL1GS0teSw&s',
+                      fit: BoxFit.contain, height: 120, width: double.infinity),
                 ),
           Padding(
             padding: const EdgeInsets.all(8.0),

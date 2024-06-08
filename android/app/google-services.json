@@ -14,6 +14,38 @@
       },
       "oauth_client": [
         {
+          "client_id": "865528263704-04bskorqgjq3qnekr3ekno1i1icc2vjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitafit.app",
+            "certificate_hash": "34c5470d68b4a48666fa4bb98cfa26f294e7a78c"
+          }
+        },
+        {
+          "client_id": "865528263704-3ppqf9mrkrimjqqurv3eslvcibr5lvfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitafit.app",
+            "certificate_hash": "dcbad8fd15cecff4e40da4d67cf51c334492f069"
+          }
+        },
+        {
+          "client_id": "865528263704-mnpnll5lirsp4th4m865rau1avkq7rd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitafit.app",
+            "certificate_hash": "bff8e511a7bd296446811884eb63cb83666604c4"
+          }
+        },
+        {
+          "client_id": "865528263704-u0mbqh5vvi6n37njjou8vdvovhgsnsdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitafit.app",
+            "certificate_hash": "1c2f0b1f66e23e8d3ccfc3d8478ec99cd17faa9b"
+          }
+        },
+        {
           "client_id": "865528263704-e38mqrj1abdmk4prgmj6e8ufjhser1f3.apps.googleusercontent.com",
           "client_type": 3
         }
