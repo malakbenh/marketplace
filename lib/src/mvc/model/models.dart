@@ -1,0 +1,12 @@
+export 'models/firebase_model.dart';
+export 'models/medecine.dart';
+export 'models/patient.dart';
+export 'models/user_presence.dart';
+export 'models/user_session.dart';
+export 'models/coach.dart';
+export 'models/post.dart';
+export 'models/product.dart';
+export './models/media_notifier.dart';
+export './models/user_min.dart';
+export 'models/chat.dart';
+export './models/message.dart';

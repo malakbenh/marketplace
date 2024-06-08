@@ -1,0 +1,242 @@
+{
+  "appTitle": "VitaFit",
+
+  "sign_in_canceled":"L'opération d'authentification a été annulée",
+  "account_exists_with_different_credential":"Connectez-vous en utilisant une méthode différente",
+  "authentication_failed":"Échec de l'authentification",
+  "credential_already_in_use":"L'identifiant est déjà utilisé",
+  "document_not_found":"Document introuvable",
+  "email_already_in_use":"Le compte existe déjà",
+  "invalid_continue_uri":"L'URL de continuation est invalide",
+  "invalid_credential":"Email ou mot de passe incorrect",
+  "invalid_email":"L'adresse e-mail n'est pas valide",
+  "invalid_phone_number":"Numéro de téléphone non valide",
+  "invalid_promo_code":"Code promotionnel invalide",
+  "invalid_verification_code":"Le code de vérification n'est pas valide",
+  "invalid_verification_id":"L'ID de vérification n'est pas valide",
+  "permission_denied":"Vous n'avez pas la permission d'exécuter l'opération spécifiée.",
+  "unknown_error":"Quelque chose s'est mal passé ! Réessayez",
+  "service_unavailable":"Le service est actuellement indisponible ! Réessayez plus tard",
+  "time_out_being_created":"Délai de connexion dépassé ! Votre document utilisateur est toujours en cours de création ! Réessayez plus tard",
+  "time_out_has_pending_writes":"Délai de connexion dépassé ! Votre document utilisateur est toujours en cours d'écriture ! Réessayez plus tard",
+  "time_out":"Délai dépassé ! Réessayez plus tard",
+  "missing_android_pkg_name":"Un nom de package Android doit être fourni si l'application Android doit être installée",
+  "missing_client_identifier":"Identifiant d'application manquant",
+  "missing_continue_uri":"Une URL de continuation doit être fournie dans la demande.",
+  "missing_ios_bundle_id":"Un identifiant de bundle iOS doit être fourni si un identifiant de l'App Store est fourni.",
+  "network_request_failed":"Vérifiez votre connexion internet",
+  "operation_not_allowed":"Opération non autorisée",
+  "permission_denied":"Vous n'avez pas la permission d'exécuter l'opération spécifiée.",
+  "provider_already_linked":"L'identifiant est déjà utilisé",
+  "quota_exceeded":"Le quota SMS a été dépassé",
+  "too_many_requests":"Trop de tentatives de connexion",
+  "unauthorized_continue_uri":"L'URL de continuation n'est pas sur la liste blanche.",
+  "unknown_error":"Quelque chose s'est mal passé ! Réessayez",
+  "user_disabled":"Le compte a été désactivé",
+  "user_mismatch":"L'identifiant ne correspond pas à l'utilisateur",
+  "user_not_found":"Aucun utilisateur correspondant à cet e-mail",
+  "user_not_match":"Impossible de récupérer les données utilisateur ! Réessayez plus tard",
+  "weak_password":"au moins 6 caractères",
+  "wrong_password":"Mot de passe incorrect",
+  "app_not_authorized":"Un jeton Safety Net invalide a été transmis",
+  "requires_recent_login_body":"Session expirée : Une connexion récente est requise, veuillez vous connecter et réessayer.",
+  "requires_recent_login":"Connexion récente requise",
+  "account_exists_with_different_credential":"Connectez-vous en utilisant le fournisseur associé à cet e-mail.",
+
+
+
+
+
+  
+  "dialog_title_permission_required":"Permission required",
+  "dialog_content_permission_camera_android":"VitaFit requires access to your camera to take upload and photos.",
+  "dialog_content_permission_camera_ios":"To be able to take and upload photos, go to Settings > Privacy > Camera > VitaFit > All Photos.",
+  "dialog_content_permission_location_android":"VitaFit requires access to your location to retrieve location address.",
+  "dialog_content_permission_location_ios":"To be able to pick your current location address, go to Settings > Privacy > Location Services > VitaFit > Enable.",
+  "dialog_content_permission_microphone_android":"VitaFit requires access to microphone to record videos.",
+  "dialog_content_permission_microphone_ios":"To be able to record videos, go to Settings > Privacy > Microphone > VitaFit > Enable.",
+  "dialog_content_permission_photos_android":"VitaFit requires access to your photo library to upload photos to your profile and posts.",
+  "dialog_content_permission_photos_ios":"To be able to upload photos to your profile and posts, go to Settings > Privacy > Photos > VitaFit > All Photos.",
+  "dialog_content_enable_location_android":"Enable your device location to display your location on the map.",
+  "dialog_content_enable_location_ios":"Enable your device location to display your location on the map.",
+  
+  "min_caracters":"Must be at least {min} characters",
+  "dismiss":"Fermer",
+  "yes":"Oui",
+  "no":"Non",
+  "cancel":"Annuler",
+  "close":"Fermer",
+  "confirmation":"Confirmation",
+  "information":"Information",
+  "great":"Super",
+  "oops":"Oups",
+  "logout":"Déconnexion",
+  "continu":"Continuer",
+  "all":"Tout",
+  "open_settings":"Ouvrir les paramètres",
+  "dialog_title_maintenance":"Interruption pour maintenance !",
+  "dialog_title_update":"Nouvelle mise à jour !",
+  "dialog_content_maintenance":"Désolé ! Nos serveurs sont actuellement en maintenance pour pousser de nouvelles mises à jour. Réessayez plus tard.",
+  "dialog_content_update":"Une nouvelle mise à jour avec de nouvelles fonctionnalités et améliorations est disponible. Mettez à jour maintenant !",
+  "update":"Mettre à jour",
+
+  "moments_ago":"Il y a quelques instants",
+  "minutes_ago":"Il y a {nb, plural, =1{1 minute} other{{nb} minutes}}",
+  "m_ago":"Il y a {nb}m",
+  "m":"{nb}m",
+  "hours_ago":"Il y a {nb, plural, =1{1 heure} other{{nb} heures}}",
+  "h_ago":"Il y a {nb}",
+  "h":"{nb}h",
+  "days_ago":"Il y a {nb, plural, =1{1 jour} other{{nb} jours}}",
+  "d_ago":"Il y a {nb}j",
+  "d":"{nb}j",
+  "all":"All",
+  "camera":"Camera",
+  "cancel":"Cancel",
+  "close":"Close",
+  "confirmation":"Confirmation",
+  "continu":"Continue",
+  "dialog_content_enable_location_android":"Enable your device location to display your location on the map.",
+  "dialog_content_enable_location_ios":"Enable your device location to display your location on the map.",
+  "dialog_content_maintenance":"Sorry! Our servers are currently under Maintenance to push new updates. Try again later.",
+  "dialog_content_permission_camera_android":"BookingHero requires access to your camera to take upload and photos.",
+  "dialog_content_permission_camera_ios":"To be able to take and upload photos, go to Settings > Privacy > Camera > ChatApp > All Photos.",
+  "dialog_content_permission_location_android":"BookingHero requires access to your location to retrieve location address.",
+  "dialog_content_permission_location_ios":"To be able to pick your current location address,  go to Settings > Privacy > Location Services> ChatApp > Enable.",
+  "dialog_content_permission_microphone_android":"BookingHero requires access to microphone to record videos.",
+  "dialog_content_permission_microphone_ios":"To be able to record videos, go to Settings > Privacy > Microphone > ChatApp > Enable.",
+  "dialog_content_permission_photos_android":"BookingHero requires access to your photo library to upload photos to your profile and posts.",
+  "dialog_content_permission_photos_ios":"To be able to upload photos to your profile and posts, go to Settings > Privacy > Photos > ChatApp > All Photos.",
+  "dialog_content_update":"A new update with new features and improvements is available. Update now!",
+  "dialog_title_maintenance":"Maintenance Break!",
+  "dialog_title_permission_required":"Permission required",
+  "dialog_title_update":"New update!",
+  "dismiss":"Dismiss",
+  "great":"Great",
+  "home_appbar_title":"Firebase Real-time chat app",
+  "information":"Information",
+  "logout":"Logout",
+  "min_caracters":"Must be at least {min} caracters",
+  "home_no_user_subtitle":"There is no user selected. Click the button bellow to connect as a user and start chatting with other users.",
+  "pick_a_user_from_list":"Pick a user from the list",
+  "empty_users_title":"Empty users",
+  "empty_users_subtitle":"There are no users at the moment.",
+  "no_chats_title":"No chat!",
+  "no_chats_subtitle":"You have no chat at this moment! Create one now.",
+  "no":"No",
+  "ok":"Ok",
+  "oops":"Oops",
+  "open_settings":"Open settings",
+  "pick_a_user":"Pick a user",
+  "current":"Current",
+  "other":"Other",
+  "snackbar_upload_limited":"Upload limited to {nb} files only!",
+  "update":"Update",
+  "yes":"Yes",
+  "connect_with":"Connect with {displayName}!",
+  "something_went_wrong":"Something went wrong!",
+  "date_at_time":"{date} AT {time}",
+  "moments_ago":"Moments ago",
+  "minutes_ago":"{nb, plural, =1{1 minute} other{{nb} minutes}} ago",
+  "m_ago":"{nb}m ago",
+  "m":"{nb}m",
+  "hours_ago":"{nb, plural, =1{1 hour} other{{nb} hours}} ago",
+  "h_ago":"{nb}h ago",
+  "h":"{nb}h",
+  "days_ago":"{nb, plural, =1{1 day} other{{nb} days}} ago",
+  "d_ago":"{nb}d ago",
+  "d":"{nb}d",
+  "message_hint":"Message ...",
+  "pick_another_user":"This user is already being used! Please pick another one.",
+  "unknown_error":"Something went wrong! try again",
+
+  "@date_at_time":{
+    "description":"format date and time",
+    "placeholders":{
+      "date":{
+        "type":"String",
+        "example":"THU"
+      },
+      "time":{
+        "type":"String",
+        "example":"4:30 PM"
+      }
+    }
+  },
+  "@connect_with":{
+    "placeholders":{
+      "displayName":{
+        "type":"String"
+      }
+    }
+  },
+  "@snackbar_upload_limited":{
+    "placeholders":{
+      "nb":{
+        "type":"int"
+      }
+    }
+  },
+  "@m_ago":{
+    "placeholders":{
+      "nb":{
+        "type":"int",
+        "example":"5m ago"
+      }
+    }
+  },
+  "@h_ago":{
+    "placeholders":{
+      "nb":{
+        "type":"int",
+        "example":"5h ago"
+      }
+    }
+  },
+  "@d_ago":{
+    "placeholders":{
+      "nb":{
+        "type":"int",
+        "example":"5d ago"
+      }
+    }
+  },
+  "@m":{
+    "placeholders":{
+      "nb":{
+        "type":"int",
+        "example":"5m"
+      }
+    }
+  },
+  "@h":{
+    "placeholders":{
+      "nb":{
+        "type":"int",
+        "example":"5h"
+      }
+    }
+  },
+  "@d":{
+    "placeholders":{
+      "nb":{
+        "type":"int",
+        "example":"5d"
+      }
+    }
+  },
+
+
+
+
+
+  "@min_caracters":{
+    "description":"a validator message for minimum length",
+    "placeholders":{
+      "min":{
+        "type":"String",
+        "example":"10"
+      }
+    }
+  }
+}
