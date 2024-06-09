@@ -213,7 +213,7 @@ class HomeStore extends StatelessWidget {
                         gridDelegate:
                             const SliverGridDelegateWithFixedCrossAxisCount(
                           crossAxisCount: 1,
-                          childAspectRatio: 8 / 7.4,
+                          childAspectRatio: 244 / 193,
                         ),
                         itemBuilder: (BuildContext context, int index) {
                           var productData =
